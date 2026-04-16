@@ -1,6 +1,6 @@
 ![logo](https://github.com/hanan309/MyAssets/blob/main/Programmer%20New%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Hanan</h1>
-<h3 align="center">A passionate fresh Software Engineer from Pakistan. My freshness will become debatable in future of your company.</h3>
+<h3 align="center">A passionate Software Engineer from Pakistan. My freshness will become debatable in future of your company.</h3>
 <img align="right" alt="coding" width="300" src="https://github.com/Muhammad-Hanan739/MyAssets/blob/main/gif.gif">
 
 
